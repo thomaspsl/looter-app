@@ -25,22 +25,3 @@ struct looterApp: App {
         }
     }
 }
-
-struct AvatarView: View {
-    @State private var isSelected = false
-
-    var body: some View {
-        VStack {
-            Image(systemName: "person.circle")
-                .resizable()
-                .frame(width: 100, height: 100)
-                .scaleEffect(isSelected ? 1.2 : 1.0)
-                .onTapGesture {
-                    withAnimation(.spring()) {
-                        isSelected.toggle()
-                    }
-                }
-            Text(isSelected ? "Sélectionné" : "Non sélectionné")
-        }
-    }
-}
