@@ -1,6 +1,6 @@
 <div align='center'>
   
-[<img src='looter-app/Assets.xcassets/pictures/logo.imageset/logo.png' alt='Looter' height='190'>](https://www.thomaspsl.fr)
+[<img src='looter-app/Assets.xcassets/pictures/logo.imageset/logo.png' alt='Looter' height='150'>](https://www.thomaspsl.fr)
 
 # Looter Project
 
@@ -11,7 +11,7 @@
 [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features)
 • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
-![Demo](public/demo.gif)
+![Demo](https://user-images.githubusercontent.com/84765571/216820861-c902940e-7176-40b3-81f4-c73b3417b0bd.png)
 
 </div>
 
