@@ -1,10 +1,3 @@
-//
-//  LootItem.swift
-//  looter-app
-//
-//  Created by Thomas on 13/11/2024.
-//
-
 import SwiftUICore
 
 struct LootItem: Identifiable {
@@ -13,11 +6,11 @@ struct LootItem: Identifiable {
     var name: String
     var type: ItemType
     var rarity: Rarity
-    var attackStrength: Int?
+    var attackStrength: Int = 0
     var game: Game
 }
 
-enum ItemType: String {
+enum ItemType: String, CaseIterable {
     case magic = "⭐️"
     case fire = "🔥"
     case ice = "❄️"

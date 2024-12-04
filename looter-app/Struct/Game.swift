@@ -1,15 +1,8 @@
-//
-//  Game.swift
-//  looter-app
-//
-//  Created by Thomas on 13/11/2024.
-//
-
 import Foundation
 
 struct Game: Identifiable, Hashable {
-    let name: String
     let id: UUID = UUID()
+    let name: String
     let genre: GameGenre
     let coverName : String?
     
