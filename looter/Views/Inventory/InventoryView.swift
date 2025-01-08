@@ -43,8 +43,3 @@ struct InventoryView: View {
         }
     }
 }
-
-#Preview {
-    InventoryView()
-        .environmentObject(Inventory())
-}

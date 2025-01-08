@@ -17,6 +17,6 @@ let availableGames = [
     Game(name: "Elden Ring", genre: .rpg, coverName: nil),
     Game(name: "Skyrim", genre: .rpg, coverName: nil),
     Game(name: "WoW", genre: .mmorpg, coverName: nil),
-    Game(name: "CS2", genre: .fps, coverName: "CS2"),
+    Game(name: "CS2", genre: .fps, coverName: "cs2"),
     Game(name: "Diablo IV", genre: .looter, coverName: nil)
 ]

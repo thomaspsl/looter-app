@@ -69,6 +69,3 @@ struct AddItemView: View {
     }
 }
 
-#Preview {
-    AddItemView()
-}
