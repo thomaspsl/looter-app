@@ -1,6 +1,6 @@
 <div align='center'>
   
-[<img src='looter-app/Assets.xcassets/pictures/logo.imageset/logo.png' alt='Looter' height='150'>](https://www.thomaspsl.fr)
+[<img src='looter/Assets.xcassets/pictures/logo.imageset/logo.png' alt='Looter' height='150'>](https://www.thomaspsl.fr)
 
 # Looter Project
 
