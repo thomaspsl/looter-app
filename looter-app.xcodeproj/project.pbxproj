@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E9B93DE22D2D3E1E002A6F39 /* PEISSEL_Thomas_Developpement_Natif.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E9B93DE02D2D3E1E002A6F39 /* PEISSEL_Thomas_Developpement_Natif.pdf */; };
+		E9B93DE22D2D3E1E002A6F39 /* Powerpoint.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E9B93DE02D2D3E1E002A6F39 /* Powerpoint.pdf */; };
 		E9B93DE32D2D3E1E002A6F39 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E9B93DE12D2D3E1E002A6F39 /* README.md */; };
 		E9B93DE42D2D3E1E002A6F39 /* Answers.md in Resources */ = {isa = PBXBuildFile; fileRef = E9B93DDF2D2D3E1E002A6F39 /* Answers.md */; };
 		E9B93DE62D2D3E5A002A6F39 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E9B93DE52D2D3E5A002A6F39 /* .gitignore */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		E9B93DDF2D2D3E1E002A6F39 /* Answers.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Answers.md; sourceTree = "<group>"; };
-		E9B93DE02D2D3E1E002A6F39 /* PEISSEL_Thomas_Developpement_Natif.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = PEISSEL_Thomas_Developpement_Natif.pdf; sourceTree = "<group>"; };
+		E9B93DE02D2D3E1E002A6F39 /* Powerpoint.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Powerpoint.pdf; sourceTree = "<group>"; };
 		E9B93DE12D2D3E1E002A6F39 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E9B93DE52D2D3E5A002A6F39 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E9F6CB922CB5907700C388F9 /* looter-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "looter-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,7 +47,7 @@
 				E9F6CB932CB5907700C388F9 /* Products */,
 				E9B93DDF2D2D3E1E002A6F39 /* Answers.md */,
 				E9B93DE52D2D3E5A002A6F39 /* .gitignore */,
-				E9B93DE02D2D3E1E002A6F39 /* PEISSEL_Thomas_Developpement_Natif.pdf */,
+				E9B93DE02D2D3E1E002A6F39 /* Powerpoint.pdf */,
 				E9B93DE12D2D3E1E002A6F39 /* README.md */,
 			);
 			sourceTree = "<group>";
@@ -124,7 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9B93DE22D2D3E1E002A6F39 /* PEISSEL_Thomas_Developpement_Natif.pdf in Resources */,
+				E9B93DE22D2D3E1E002A6F39 /* Powerpoint.pdf in Resources */,
 				E9B93DE32D2D3E1E002A6F39 /* README.md in Resources */,
 				E9B93DE62D2D3E5A002A6F39 /* .gitignore in Resources */,
 				E9B93DE42D2D3E1E002A6F39 /* Answers.md in Resources */,
