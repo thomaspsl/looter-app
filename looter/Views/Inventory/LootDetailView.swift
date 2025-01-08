@@ -126,8 +126,3 @@ struct LootDetailView: View {
         }
     }
 }
-
-#Preview {
-    LootDetailView(item: LootItem(quantity: 2, name: "Flip Doppler p4 #34", type: ItemType.dagger, rarity: Rarity.unique, game: availableGames[3])
-    )
-}
