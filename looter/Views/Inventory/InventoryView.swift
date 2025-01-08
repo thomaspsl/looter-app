@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct InventoryView: View {
     @EnvironmentObject var inventory: Inventory
     
     @State var showAddItemView = false
@@ -45,6 +45,6 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    InventoryView()
         .environmentObject(Inventory())
 }

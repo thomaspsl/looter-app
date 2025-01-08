@@ -19,7 +19,7 @@ class Inventory : ObservableObject {
 struct looterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            InventoryView()
                 .environmentObject(Inventory())
 
         }
